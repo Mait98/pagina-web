@@ -64,3 +64,5 @@ class PrivateJet extends Avion {
 const AvionBasico = new Avion("blanco", 120, "boing737")
 
 const avionAereo = new AirPlane("azul", 100,  )
+
+console.log("hola mundo, de rama 2")
